@@ -1,0 +1,32 @@
+.button {
+  padding: 15px 150px;
+  background-color: transparent;
+  border-radius: 55px;
+  border: 3px solid black;
+
+  display: flex;
+  justify-content: center;
+  align-content: center;
+
+  color: black;
+
+  transition: all 0.3s ease-in-out;
+
+  &:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+  }
+}
+
+.text {
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-size: 22px;
+}
+
+.transparent {
+  background-color: transparent;
+  color: black;
+}

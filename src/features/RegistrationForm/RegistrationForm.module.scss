@@ -1,0 +1,27 @@
+.form {
+  min-width: 300px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  border: none;
+  padding: 0;
+  margin-bottom: 10px;
+}
+
+.input {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid black;
+  background-color: transparent;
+}
+
+.error {
+  color: red;
+  font-size: 0.8rem;
+  padding: 0;
+  margin: 0;
+}
