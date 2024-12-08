@@ -34,5 +34,5 @@
 * `npm run dev` - сборка для разработки
 
 ## Дополнительные материалы:
-Документация - https://react-hook-form.com/get-started
-Видео - 
+Документация - https://react-hook-form.com/get-started  
+Видео - https://youtube.com/shorts/JzV_1JvvsxY?feature=share
